@@ -1647,5 +1647,3 @@ items:
         href: resources/vdc.md
       - name: Virtual datacenter boundary security
         href: resources/networking-vdc.md
-      - name: CAF Terraform landing zones
-        href: ready/landing-zone/terraform-landing-zone.md
