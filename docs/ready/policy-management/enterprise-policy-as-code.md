@@ -3,7 +3,7 @@ title: Improve policy management
 description: Improve policy management using Enterprise Policy As Code.
 author: anwather
 ms.author: anwather
-ms.date: 26/09/2023
+ms.date: 10/26/2023
 ms.topic: conceptual
 ms.custom: internal
 ---
